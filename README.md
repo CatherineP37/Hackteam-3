@@ -1,6 +1,6 @@
 # Retro Gaming Hackathon
 
-![Retro Gaming Hackathon Logo](assets/media/hackathonimage.jpg)
+![Retro Gaming Hackathon Logo](assets/images/hackathonimage.jpg)
 
 Welcome to our Retro Gaming Hackathon project! 🎮
 
